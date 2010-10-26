@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:simonmaddox/PhotoShare-client.git
+[submodule "server"]
+	path = server
+	url = git@github.com:simonmaddox/PhotoShare-server.git
